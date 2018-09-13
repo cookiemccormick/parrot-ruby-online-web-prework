@@ -6,3 +6,4 @@ def parrot(phrase = "Squawk!")
   return parrot
 end
 
+parrot()
